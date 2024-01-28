@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KDZ" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/3p671cfcstk850fm2q9zp/KDZ1.zip?rlkey=84qx5woq0wquuaaqmi9zt3ya8&dl=1"
+url="https://www.dropbox.com/scl/fi/5tl4t1fpq0kjmh5u7erhr/KDZ1.zip?rlkey=adlum2sgjfyv25o7wt92u26yo&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
