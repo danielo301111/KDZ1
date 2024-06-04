@@ -1,45 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?> 
 
-<rss version="8.0.3">
-<channel>
-<title>KODI DLA ZABAWY </title>
+<rss version="2.0"> 
+ <channel> 
+  <title>Kodi PREMIUMSMART</title> 
 
-<item>
-<title>ZAPRASZAMY </title> 
-</item>
-
-
-
-<item>
-<title>Aktualna wersja: 1.0.0 </title> 
-</item>
-
-
-<item>
-<title>Werjsa należąca do grupy KODI DLA ZABAWY  </title>
-</item>
-
-
-<item>
-<title>02.12.2023.Dodano listy Vod,Live,Wersja zrobiona na nowej skórze-mamy dwie do wyboru. </title> 
-</item>
-
-<item>
-<title>1.0.0 ver.Dodałem w płatnych na dole "TOYA TV",zmienione tapety,dodana lista trex i plusx  </title>
-</item>
-
-
-
-<item>
-<title> "Kodi Dla Zabawy" wersja testowa Daniela </title>
-</item>
-
-<item>
-<title>Wersje stworzył-Daniel,grafika- Thunderman69-pozdrawiamy.</title>
-</item>
+ <item> 
+  <title>Aktualna Wersja:1.0.8</title> 
+ </item> 
  
-</channel>
-</rss>
- 
+ <item> 
+  <title>KODI PREMIUMSMART</title> 
+</item> 
+
+ <item> 
+  <title>KODI ROBIONE NA WERSJI 21. Pamiętajcie jest darmowe,jeśli zapłaciliście zostaliście oszukani.Proszę więc pisać do mnie na telegramie.</title> 
+</item> 
+
  <item>
- <title> Do zobaczenia w kolejnych wersjach.  </title>
+  <title>Zapraszamy Do Miłego Oglądania.Możecie zmienić skórę ,jest do wyboru albo samoloty albo samochody.</title>
+</item>
+
+ <item>
+  <title>Niech Ten Czas  w Naszej Aplikacji Umili Wam oglądanie.</title>
+</item>
+
+ <item>
+  <title>SPECJALNE PODZIĘKOWANIA ZA CHĘĆ POMOCY DLA MARAB</title>
+</item>
+
+ <item>
+  <title>Aktualna Wersja:KODI PREMIUMSMART V.1.0.8</title>
+</item>
+
+ <item>
+  <title>Miłego OGLĄDANIA Życzy:DANIEL</title>
+</item>
+
+ </channel> 
+</rss>
